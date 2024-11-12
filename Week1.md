@@ -1,4 +1,4 @@
-Task 3 (20mins): 
+## Task 3 (20mins): 
 Continuing Professional Development is a combination of ideas, techniques, and approaches that are designed to help you manage and enhance your growth, abilities and learning as a professional. The field of computer science is changing rapidly, and computer professionals should keep up with recent advancements in the field. 
 In groups (4-5 students), on a scale of (high, medium, and low) evaluate each one of the following opportunities for Continuing Professional Development: 
 A data scientist trying to learn web development. 
