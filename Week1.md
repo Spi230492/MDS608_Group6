@@ -18,3 +18,27 @@ Justification: For a data scientist interested in deploying and optimizing machi
 CPD Rating:Low
 Justification: If a data scientist intends to work in financial data science or FinTech, earning a master's degree in finance could help them increase their understanding of financial systems and quantitative finance. Although this might lead to more specialized job pathways, it's a less straightforward path than technical data science capabilities, so it's only moderately relevant unless they want to work in finance.
 
+
+
+WEEK 1
+
+TASK 4
+
+A computing professional must represent his profession by maintaining high standards of commitment, integrity, responsibility, and accountability.
+
+Discuss the following situations and evaluate if the computer professionals have maintained higher standards of commitment, integrity, responsibility, and accountability.
+
+1) A data science team have signed a contract with a client to deliver software on a specific date. The team has failed to meet the deadline and the client lost money for pushing the deadline further.
+
+If a team agrees to a deadline, they’re responsible for managing their work to meet the target. The missing deadline shows a lack of commitment to the client. If the team faced problems that led to the delay, they should inform the client straight away. Also, explained the situation and offered practical solutions. And, keeping this information to themselves could seem like they’re hiding something or not being clear. Also, the team should have communicated those challenges with the client in advance, providing updates and offering alternatives. Thus, the team is responsible for managing their time and resources to meet the deadline. If the team fails to do so it demonstrates a lack of proper management. The client relies on the team's expertise to fulfill the contract terms. When, the team failed to meet the deadline due to internal mismanagement. They should take full accountability for the situation. They should also take responsibility and offer to make things right, such as compensating the client for their losses or providing additional support to minimize the impact of the delay.
+
+
+2) A data science team has delivered a project to a client with the source code. The team asked the client to review the code and report back if he finds anything unusual.
+
+By giving the client the source code, the team shows transparency and collaborative. However, the responsibility for making sure the code works and is free of major issues still falls on them. Also, letting the client review the code shifts that responsibility and can seem like the team isn't fully committed to delivering a complete product. The clients expect teams to
+
+have tested and reviewed the product before delivery, so asking the client to do it puts an unfair load on them. Hence, team should have ensured the software was correct and complete through internal reviews and quality assurance before delivering it.
+
+3) An AI team has received two similar datasets from two clients to build a prediction model. The team decided to train one model in both datasets without telling the clients that their dataset is being used to train other models.
+
+In this scenario, the team failed to fully meet the client’s expectations. The client expects their data to be used exclusively for their project and not shared with others without their consent. Though, the team lacked transparency by not disclosing how the data was being used, which is unethical and unprofessionalism. Also, the team is responsible for using the data in a way that aligns with the client consents and using data for another client’s model without permission is a breach of trust. To end with, if the clients will know that their data was shared without their consent. Then, the team will be responsible for the breach, potentially damaging their reputation and exposing them to legal consequences.
