@@ -1,1 +1,4 @@
-
+## TASK4
+Based on the business viewpoint, the following analysis determines whether it makes sense to file for a patent in each case: 
+### **1. Financial Institutions' Large Language Model (LLM) Solutions** - **Evaluation**: 
+It might not be worthwhile to file for a patent. The complexity of LLM solution patents stems from the fact that they incorporate data and algorithms, which can be challenging to patent. In this industry, service delivery, private databases, and ongoing innovation—rather than patents—are frequently the sources of competitive advantage. - A patent application might not be a good defense if rivals develop a better alternative. **Alternative Strategy**: Put an emphasis on unique techniques, trade secrets, and exclusive alliances with banks. --- ### **2. Deep Learning Library for Python Quicker than PyTorch** - **Assessment**: It would be worthwhile to submit a patent application. **Justification**:
