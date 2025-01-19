@@ -35,3 +35,17 @@ Important Clauses for the Contract:
 6.	Warranties and Liabilities: Clearly state that reviewing insurance claims is the insurance company’s responsibility, and you will only handle the app and file retention.
 By addressing these key clauses in the contract, you ensure that both your company and the client have clear expectations, protecting both parties' interests and minimizing risks.
 
+
+## TASK3 
+## 1. Netflix's suggested modification is to raise the costs for smart TVs.
+Context: Regardless of the device you're using to watch, Netflix costs the same monthly fee for its three subscription levels (Basic, Standard, and Premium). The idea is to raise the cost of smart TVs, which have larger screens and can accommodate more viewers at once.
+Justifications for:
+Greater Resource Consumption: Netflix may contend that, in comparison to smaller devices like phones or laptops, it uses more resources (such as bandwidth and server capacity) per user on large displays because smart TVs frequently accommodate numerous viewers at once.
+Market segmentation may enable Netflix to modify prices in accordance with the content's perceived worth. Large screen users may be perceived as more likely to consume  content in a group, thus increasing the value of their subscription.
+## Reasons Opposed to:
+## Customer Backlash: A significant percentage of the clientele may become irate if costs for smart TV customers are raised. People already pay a lot to access Netflix, so this adjustment can be seen as discriminatory or unfair.
+Complicated Pricing Structure: Customers may become confused if this adds needless complexity to the pricing plan. Users can become dissatisfied if they have to determine if watching on their phone or TV affects their membership cost.
+Competition: Services like Amazon Prime and Disney+ that have more straightforward pricing structures and don't impose additional fees for device use may pose a greater threat to Netflix.
+In conclusion, I oppose the suggested modification. Although Netflix may have a basis for increased prices since it uses more resources, the prospective client dissatisfaction and the negative impact on brand loyalty outweigh the financial benefits of this change. Simplified pricing is a better approach, as it enhances customer experience and avoids confusion.
+
+
